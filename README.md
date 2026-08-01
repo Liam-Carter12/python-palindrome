@@ -6,3 +6,5 @@ Verify palindrome strings in Python.
 Clone this project and look at the source files:
 - `main.py`
 - `palindrome.py`
+
+*Initialized by Liam-Carter12 workspace automation.*
